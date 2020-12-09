@@ -1,4 +1,4 @@
-module github.com/influxdata/influxdb-client-go/v2
+module github.com/pbivrell/influxdb-client-go/v2
 
 go 1.13
 
