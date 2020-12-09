@@ -11,8 +11,8 @@ import (
 	"os"
 	"testing"
 
-	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
-	"github.com/influxdata/influxdb-client-go/v2/domain"
+	influxdb2 "github.com/pbivrell/influxdb-client-go/v2"
+	"github.com/pbivrell/influxdb-client-go/v2/domain"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	http3 "github.com/influxdata/influxdb-client-go/v2/api/http"
-	http2 "github.com/influxdata/influxdb-client-go/v2/internal/http"
-	iwrite "github.com/influxdata/influxdb-client-go/v2/internal/write"
+	http3 "github.com/pbivrell/influxdb-client-go/v2/api/http"
+	http2 "github.com/pbivrell/influxdb-client-go/v2/internal/http"
+	iwrite "github.com/pbivrell/influxdb-client-go/v2/internal/write"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

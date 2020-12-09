@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
+	influxdb2 "github.com/pbivrell/influxdb-client-go/v2"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/influxdata/influxdb-client-go/v2"
-	"github.com/influxdata/influxdb-client-go/v2/domain"
+	"github.com/pbivrell/influxdb-client-go/v2"
+	"github.com/pbivrell/influxdb-client-go/v2/domain"
 )
 
 func ExampleClient_newClient() {

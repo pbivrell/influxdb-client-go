@@ -17,7 +17,7 @@ import (
 	"gopkg.in/yaml.v2"
 
 	"github.com/deepmap/oapi-codegen/pkg/runtime"
-	ihttp "github.com/influxdata/influxdb-client-go/v2/api/http"
+	ihttp "github.com/pbivrell/influxdb-client-go/v2/api/http"
 )
 
 // Client which conforms to the OpenAPI3 specification for this service.

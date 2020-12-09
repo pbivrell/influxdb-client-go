@@ -7,7 +7,7 @@ package api
 import (
 	"testing"
 
-	"github.com/influxdata/influxdb-client-go/v2/domain"
+	"github.com/pbivrell/influxdb-client-go/v2/domain"
 	"github.com/stretchr/testify/assert"
 )
 

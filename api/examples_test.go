@@ -6,10 +6,10 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/influxdata/influxdb-client-go/v2/api"
-	"github.com/influxdata/influxdb-client-go/v2/api/write"
-	"github.com/influxdata/influxdb-client-go/v2/domain"
-	influxdb2 "github.com/influxdata/influxdb-client-go/v2/internal/examples"
+	"github.com/pbivrell/influxdb-client-go/v2/api"
+	"github.com/pbivrell/influxdb-client-go/v2/api/write"
+	"github.com/pbivrell/influxdb-client-go/v2/domain"
+	influxdb2 "github.com/pbivrell/influxdb-client-go/v2/internal/examples"
 )
 
 func ExampleBucketsAPI() {

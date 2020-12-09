@@ -15,9 +15,9 @@ import (
 	"testing"
 	"time"
 
-	http2 "github.com/influxdata/influxdb-client-go/v2/api/http"
-	"github.com/influxdata/influxdb-client-go/v2/api/query"
-	"github.com/influxdata/influxdb-client-go/v2/internal/gzip"
+	http2 "github.com/pbivrell/influxdb-client-go/v2/api/http"
+	"github.com/pbivrell/influxdb-client-go/v2/api/query"
+	"github.com/pbivrell/influxdb-client-go/v2/internal/gzip"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
